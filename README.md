@@ -35,17 +35,10 @@ Estrutura semântica e responsividade
 📫 Entre em contato comigo
 <div align="left">
 
-📧 Email: adicione aqui
-🔗 LinkedIn: adicione aqui se quiser
+📧 Email: nianbarbosa21@gmail.com
+🔗 portfólio: 
 
 </div>
 ⚡ Fun fact
 
-Sempre buscando evoluir — cada commit é um passo a mais na jornada de dev. 🚀
-
-Se quiser, eu posso:
-
-🔥 Criar um banner personalizado com o seu nome
-🎨 Ajustar as cores e o tema
-✨ Colocar animações e estatísticas avançadas
-🧩 Transformar isso em um README ainda mais profissional
+Sempre buscando evoluir — cada commit é um passo a mais na jornada de dev.
