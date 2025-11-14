@@ -1,16 +1,53 @@
-## Hi there 👋
+Bem-vindo ao meu perfil!
+<div align="center"> <img src="https://i.imgur.com/knhkQYg.png" width="100%" alt="Banner"/> </div>
+- Nian Barbosa
+Desenvolvedor Web • Estudante de Informática para Internet
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </div>
+📝 Sobre mim
 
-<!--
-**NianBrDev/NianBrDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso técnico de Informática para Internet, apaixonado por tecnologia e desenvolvimento web.
+Atualmente desenvolvo projetos solo e em equipe, buscando sempre evoluir minhas habilidades no Front-End e boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+Tenho interesse em criar interfaces modernas, intuitivas e funcionais — sempre aprendendo algo novo a cada projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tecnologias que utilizo
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> </div>
+📊 Linguagens mais usadas no meu GitHub
+<div align="center">
+
+</div>
+📂 Meus projetos
+
+- Individuais:
+Projetos criados para aprendizado e prática de desenvolvimento web.
+
+- Em grupo:
+Projetos desenvolvidos com colegas do curso técnico, explorando colaboração e tecnologias essenciais.
+
+- Atualmente aprendendo
+
+JavaScript moderno (ES6+)
+
+Organização de projetos
+
+Boas práticas de versionamento
+
+Estrutura semântica e responsividade
+
+📫 Entre em contato comigo
+<div align="left">
+
+📧 Email: adicione aqui
+🔗 LinkedIn: adicione aqui se quiser
+
+</div>
+⚡ Fun fact
+
+Sempre buscando evoluir — cada commit é um passo a mais na jornada de dev. 🚀
+
+Se quiser, eu posso:
+
+🔥 Criar um banner personalizado com o seu nome
+🎨 Ajustar as cores e o tema
+✨ Colocar animações e estatísticas avançadas
+🧩 Transformar isso em um README ainda mais profissional
